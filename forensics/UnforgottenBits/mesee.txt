@@ -1,0 +1,12 @@
+chizazerite
+guldulheen
+I keep forgetting this, but it starts like: yasuoaatrox...
+
+avidreader13.log	 
+[08:15] <yone786> First it’s steghide.
+[08:15] <yone786> Use password: akalibardzyratrundle
+[08:18] <yone786> The next is the encryption. Use openssl, AES, cbc.
+[08:19] <yone786> salt=0f3fa17eeacd53a9 key=58593a7522257f2a95cce9a68886ff78546784ad7db4473dbd91aecd9eefd508 iv=7a12fd4dc1898efcd997a1b9496e7591
+
+
+yasuoaatroxashecassiopeia
